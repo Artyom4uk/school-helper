@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SchoolHelper" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#5B5BD6</item>
+        <item name="android:statusBarColor">#5B5BD6</item>
+    </style>
+</resources>
